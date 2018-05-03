@@ -1,2 +1,6 @@
 #include<stdio.h>
-#incl;ude<conio.h>
+#include<conio.h>
+
+int main()
+{
+}
